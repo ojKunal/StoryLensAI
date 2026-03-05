@@ -1,0 +1,11 @@
+
+flask
+flask-cors
+openai
+langchain
+chromadb
+tiktoken
+transformers
+sentence-transformers
+python-dotenv
+youtube-transcript-api
