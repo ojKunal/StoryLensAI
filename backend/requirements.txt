@@ -9,3 +9,4 @@ transformers
 sentence-transformers
 python-dotenv
 youtube-transcript-api
+langchain-community
